@@ -11,11 +11,11 @@
     "id": "did:web:example.com:user123"
   },
   "credentialStatus": {
-    "id": "https://sneha-kolimi.github.io/status/1#1",
+    "id": "https://sneha-kolimi.github.io/acapy-did-web-demo/status/1#1",
     "type": "StatusList2021Entry",
     "statusPurpose": "revocation",
     "statusListIndex": "1",
-    "statusListCredential": "https://sneha-kolimi.github.io/status/1"
+    "statusListCredential": "https://sneha-kolimi.github.io/acapy-did-web-demo/status/1"
   },
   "proof": {
     "type": "Ed25519Signature2018",
