@@ -1,0 +1,27 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc/status-list/2021/v1"
+  ],
+  "id": "http://example.org/credentials/1872",
+  "type": ["VerifiableCredential", "StatusList2021Credential"],
+  "issuer": "https://example.org/issuers/14",
+  "issuanceDate": "2025-05-30T12:00:00Z",
+  "credentialSubject": {
+    "id": "did:web:example.com:user123"
+  },
+  "credentialStatus": {
+    "id": "https://sneha-kolimi.github.io/status/1#1",
+    "type": "StatusList2021Entry",
+    "statusPurpose": "revocation",
+    "statusListIndex": "1",
+    "statusListCredential": "https://sneha-kolimi.github.io/status/1"
+  },
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2025-05-30T12:00:00Z",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "https://example.org/issuers/14#key-1",
+    "jws": "eyJhbGciOiAiRWREU0EiLCAiYjY0IjogZmFsc2UsICJjcml0IjogWyJiNjQiXX0..AgosZwY-Lpl8td6g9_5C_JsHs8B-RF4sJXn29UX7wuNF67mscy-Oy_LEKwH2mc4IOXDYKAo59OzVO9kStUgpDw"
+  }
+}
