@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc/status-list/2021/v1"
+  ],
+  "id": "https://sneha-kolimi.github.io/acapy-did-web-demo/status/1",
+  "type": [
+    "VerifiableCredential",
+    "StatusList2021Credential"
+  ],
+  "issuer": "did:web:sneha-kolimi.github.io",
+  "issuanceDate": "2025-05-30T12:00:00Z",
+  "credentialSubject": {
+    "id": "https://sneha-kolimi.github.io/acapy-did-web-demo/status/1#list",
+    "type": "StatusList2021",
+    "statusPurpose": "revocation",
+    "encodedList": "H4sIAAAAAAAAA-AAA..."  
+  },
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2025-05-30T12:00:00Z",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:web:sneha-kolimi.github.io#key-1",
+    "jws": "eyJhbGciOiAiRWREU0EiLCA..."
+  }
+}
