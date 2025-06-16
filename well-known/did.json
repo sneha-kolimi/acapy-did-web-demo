@@ -3,12 +3,12 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/v2"
   ],
-  "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo",
+  "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:well-known",
   "verificationMethod": [
     {
       "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:well-known#verkey",
       "type": "Ed25519VerificationKey2018",
-      "controller": "did:web:sneha-kolimi.github.io:acapy-did-web-demo",
+      "controller": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:well-known",
       "publicKeyBase58": "A7UyHNf6jiHuRSR4sH6UDH6jmpXZEn4raLjyfueidNv9"
     }
   ],
