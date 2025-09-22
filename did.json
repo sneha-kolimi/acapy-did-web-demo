@@ -1,21 +1,21 @@
 {
   "@context": [
     "https://www.w3.org/ns/did/v1",
-    "https://w3id.org/security/v2"
+    "https://w3id.org/security/multikey/v1"
   ],
   "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo",
   "verificationMethod": [
     {
-      "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo#verkey",
-      "type": "Ed25519VerificationKey2018",
+      "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo#key-1",
+      "type": "Ed25519VerificationKey2020",
       "controller": "did:web:sneha-kolimi.github.io:acapy-did-web-demo",
-      "publicKeyBase58": "9ibJ1jTgRCbbmtq9nogfg2sFfCN7o8v9EK1zcZQmFhey"
+      "publicKeyMultibase": "9ibJ1jTgRCbbmtq9nogfg2sFfCN7o8v9EK1zcZQmFhey"
     }
   ],
   "authentication": [
-    "did:web:sneha-kolimi.github.io:acapy-did-web-demo#verkey"
+    "did:web:sneha-kolimi.github.io:acapy-did-web-demo#key-1"
   ],
   "assertionMethod": [
-    "did:web:sneha-kolimi.github.io:acapy-did-web-demo#verkey"
+    "did:web:sneha-kolimi.github.io:acapy-did-web-demo#key-1"
   ]
 }
