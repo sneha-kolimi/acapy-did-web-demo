@@ -7,7 +7,7 @@
   "verificationMethod": [
     {
       "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo#key-1",
-      "type": "Bls12381G2Key2020",
+      "type": "Ed25519Signature2018",
       "controller": "did:web:sneha-kolimi.github.io:acapy-did-web-demo",
       "publicKeyMultibase": "9ibJ1jTgRCbbmtq9nogfg2sFfCN7o8v9EK1zcZQmFhey"
     }
