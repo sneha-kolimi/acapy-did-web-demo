@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:users:Contemporary:batteru",
+    "verkey": "7R4RP7rcRCeUZJwteV6YHrWicn763rScebVsNTkUfPPW",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
