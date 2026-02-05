@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:users:ORGANIZATION_INDIA:xcfgvhbjnk",
+    "verkey": "ELjpazXh9zedue4qhJZaqUXfUwYtz9x1PyTXSCLCiNmr",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
