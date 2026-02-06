@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:users:COMP-003:comp33holder",
+    "verkey": "AGTjGX8GnAFri8SQbgmkP9a3GSFQoQHdQpxqupnSay68",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
