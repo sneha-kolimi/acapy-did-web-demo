@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:users:QQWZEXRCTVYUBINW:recycling",
+    "verkey": "BqR1Eeq5cy9MsZfJ6KizLNccR53gbfcuYq77XDkcQF3a",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
