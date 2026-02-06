@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:manufacturers:TATAGROUP",
+    "verkey": "CvGWsU8SFhzVtQHqoEUNjjCVbwGttWEeJDUXmW4ctWhY",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
