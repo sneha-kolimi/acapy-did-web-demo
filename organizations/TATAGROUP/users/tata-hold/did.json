@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:users:TATAGROUP:tata-hold",
+    "verkey": "EXdnYFD7rQPt7DWr8Dwp4drx3JbSm9C3osRNMVfdmMuN",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
