@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:users:TESLA_HYD:teslahyduser",
+    "verkey": "6fqjCbjxfachdW39QRSEq6d9JJSTg6Ayiz6rmjursNuk",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
