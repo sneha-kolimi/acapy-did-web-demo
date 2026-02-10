@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:manufacturers:ABC_BATTERY_MANUFACTURES",
+    "verkey": "23P98YfsJB9LtQQsM7vh35bwyomDEkRfHKsxhNwqbjV2",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
