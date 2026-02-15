@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:users:EV_BATTERY_MANUFACTURERS:ev_oem",
+    "verkey": "GcNZkg1T2YbEwnU2ihb2kLt1A949euxu3YxYQMEvWsKe",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
