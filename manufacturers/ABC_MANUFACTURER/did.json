@@ -1,7 +1,7 @@
 {
   "result": {
     "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:manufacturers:ABC_MANUFACTURER",
-    "verkey": "ChuXRv4Rts9XUogtUaE1JbXqJpqumX8e1tCDj2V6GBjt",
+    "verkey": "FW6AqJFHXk5bhSnCffBhuRo1p6hbojEc3ko7hcmifCwX",
     "posture": "wallet_only",
     "key_type": "ed25519",
     "method": "web",
