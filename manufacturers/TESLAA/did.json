@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:manufacturers:TESLAA",
+    "verkey": "AtDP7s9PunqJvMa8FxWQbiN9XEZhKnRY4jWYr6nWoCv8",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
