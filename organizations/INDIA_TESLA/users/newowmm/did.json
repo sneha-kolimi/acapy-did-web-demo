@@ -1,0 +1,28 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1"
+  ],
+  "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:organizations:INDIA_TESLA:users:newowmm",
+  "verificationMethod": [
+    {
+      "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:organizations:INDIA_TESLA:users:newowmm#key-pqc-1",
+      "type": "Multikey",
+      "controller": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:organizations:INDIA_TESLA:users:newowmm",
+      "publicKeyMultibase": "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"
+    }
+  ],
+  "authentication": [
+    "did:web:sneha-kolimi.github.io:acapy-did-web-demo:organizations:INDIA_TESLA:users:newowmm#key-pqc-1"
+  ],
+  "assertionMethod": [
+    "did:web:sneha-kolimi.github.io:acapy-did-web-demo:organizations:INDIA_TESLA:users:newowmm#key-pqc-1"
+  ],
+  "service": [
+    {
+      "id": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:organizations:INDIA_TESLA:users:newowmm#agent",
+      "type": "agent",
+      "serviceEndpoint": "https://sneha-kolimi.github.io/acapy-did-web-demo/endpoint"
+    }
+  ]
+}
