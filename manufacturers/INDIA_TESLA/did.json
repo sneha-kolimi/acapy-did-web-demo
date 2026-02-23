@@ -1,0 +1,10 @@
+{
+  "result": {
+    "did": "did:web:sneha-kolimi.github.io:acapy-did-web-demo:manufacturers:INDIA_TESLA",
+    "verkey": "Chvou3QBfqetC4tjcoU5URLFZPspXCR9aCRoLDgQjXMi",
+    "posture": "wallet_only",
+    "key_type": "ed25519",
+    "method": "web",
+    "metadata": {}
+  }
+}
